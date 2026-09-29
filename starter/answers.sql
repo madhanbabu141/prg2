@@ -1,3 +1,7 @@
+CREATE TABLE info57 (
+    info57ID INT(5) PRIMARY KEY
+);
+
 CREATE TABLE Student (
     student57ID INT(5) PRIMARY KEY,
     student57Name VARCHAR(20) NOT NULL,
